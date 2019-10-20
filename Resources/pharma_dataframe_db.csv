@@ -1,0 +1,27 @@
+Company,2018 Revenue USD billions Worldwide,Market Cap in 2018 (USDÂ billions) World Wide,,,,,,,,,,,
+ JNJ,81.6,346.1,,,,,,,,,,,
+ ROG,56.86,209.3,,,,,,,,,,,
+ PFE,53.6,259.7,,,,Spreadsheet tab,Element or value display name,Description,Data type,Character Length,Acceptable Values,Required?,Accepts null value?
+ NVS,51.9,200,,,,sheet 1,Company,Wikipedia - reviewing the companies top companies based on revenue and market cap,varchar,255,n/a,y,n
+ BAYN,45.06,63.1,,,,sheet 1,2018 Revenue USD billions,Wikipedia -  researching on the top 25 companies based on the revenue,int,10,n/a,y,n
+ GSK,43.14,94.8,,,,sheet 1,Market Cap in 2018 (USD billions),Wikipedia  - researching on the top 25 companines based on the Market cap,int,10,n/a,y,n
+ MRK,42.3,205.8,,,,,,,,,,,
+ SNY,39.07,108.4,,,,,,,,,,,
+ ABBV,32.75,146.3,,,,,,,,,,,
+ ABT,30.6,126.8,,,,,,,,,,,
+ LLY,24.56,125.6,,,,,,,,,,,
+ AMGN,23.7,128.8,,,,,,,,,,,
+ BMY,22.56,85,,,,,,,,,,,
+ GILD,22.13,81.6,,,,,,,,,,,
+ AZN,22.09,96.2,,,,,,,,,,,
+ TEVA,18.9,,,,,,,,,,,,
+4502[N1],19.1,,,,,,,,,,,,
+MRK,16.48,,,,,,,,,,,,
+ NVO,16.99,111.9,,,,,,,,,,,
+ AGN,15.78,46.2,,,,,,,,,,,
+ DHR,19.89,,,,,,,,,,,,
+ CELG,15.28,46.6,,,,,,,,,,,
+ BIIB,13.45,63.5,,,,,,,,,,,
+ LH,11.33,,,,,,,,,,,,
+ BAX,11.13,,,,,,,,,,,,
+ MYL,11.43,14.1,,,,,,,,,,,
